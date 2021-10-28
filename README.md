@@ -2,7 +2,7 @@
 
 Há algum tempo eu pensava que a programação pudesse ser pra mim, depois que comecei a programar de fato, tive certeza que é. Cada linha de código que aprendo me trás uma satisfação enorme!
 - 💻Desenvolvedor Frontend Junior
-- 💼A procura de minha primeira experiência profissional.
+- 💼Aberto para gerar valor a alguma empresa tech.
 - 🌱Desenvolvendo aplicações web com HTML, CSS (SASS), Javascript e Vue.js.
 
 
