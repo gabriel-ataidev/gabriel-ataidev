@@ -1,4 +1,4 @@
-### AOBAA, EU SOU O GABRIEL ATAIDE!
+### EU SOU O GABRIEL ATAIDE!
 
 Há algum tempo eu pensava que a programação pudesse ser pra mim, depois que comecei a programar de fato, tive certeza que é. Cada linha de código que aprendo me trás uma satisfação enorme!
 - 💻Desenvolvedor Frontend Junior
