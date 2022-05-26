@@ -1,6 +1,6 @@
 ### EU SOU O GABRIEL ATAIDE!
 
-Há algum tempo eu pensava que a programação pudesse ser pra mim, depois que comecei a programar de fato, tive certeza que é. Cada linha de código que aprendo me trás uma satisfação enorme!
+Eu sou o Gabriel, desenvolvedor frontend! Me conheça melhor em meu <a src="https://portfolioataidev.netlify.app/">portfolio</a>.
 - 💻Desenvolvedor Frontend Junior
 - 💼Aberto para gerar valor a alguma empresa tech.
 - 🌱Desenvolvendo aplicações web com HTML, CSS (SASS), Javascript e Vue.js.
@@ -23,8 +23,7 @@ Há algum tempo eu pensava que a programação pudesse ser pra mim, depois que c
   
  ##
   
- Minhas redes👇🏼
+ Meu linkedin👇🏼
  <div>
-  <a href = "mailto:gabriel.ataide07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-ataidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
