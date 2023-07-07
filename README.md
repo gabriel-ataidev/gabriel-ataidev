@@ -1,6 +1,6 @@
 ### EU SOU O GABRIEL ATAIDE!
 
-Eu sou o Gabriel, desenvolvedor frontend! Me conheça melhor em meu <a src="https://www.linkedin.com/in/gabriel-ataidev/">linkedin</a>.
+Eu sou o Gabriel, desenvolvedor frontend! Me conheça melhor em meu <a href="https://www.linkedin.com/in/gabriel-ataidev/">linkedin</a>.
 - 💻Desenvolvedor Frontend.
 - 💼Atuando no time de desenvolvimento da Juntos Energia.
 - 🌱Desenvolvendo aplicações web com React e Vue.js.
