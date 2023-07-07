@@ -1,8 +1,8 @@
 ### EU SOU O GABRIEL ATAIDE!
 
-Eu sou o Gabriel, desenvolvedor frontend! Me conheça melhor em meu <a src="https://portfolioataidev.netlify.app/">portfolio</a>.
+Eu sou o Gabriel, desenvolvedor frontend! Me conheça melhor em meu <a src="https://linkedin.com/gabriel-ataidev/">linkedin</a>.
 - 💻Desenvolvedor Frontend.
-- 💼Atuando no time de desenvolvimento da QualityHub.
+- 💼Atuando no time de desenvolvimento da Juntos Energia.
 - 🌱Desenvolvendo aplicações web com React e Vue.js.
 
 
